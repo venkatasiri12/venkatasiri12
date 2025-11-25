@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+There%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Engineer;Data+Engineering+%7C+Cloud+Analytics" />
 </p>
----
 
 ![Working Woman](https://github.com/venkatasiri12/venkatasiri12/blob/main/giffy.gif)
 
@@ -46,4 +45,5 @@
   <a href="mailto:venkatasiritulasi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
 </p>
 
-<h3 align="center">✨ Open to AI/ML, NLP & Data Engineerin
+<h3 align="center">✨ Open to AI/ML, NLP & Data Engineering Opportunities ✨</h3>
+
