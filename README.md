@@ -16,10 +16,22 @@
 
 
 
-# 🧩 Tech Stack
 ## 🧩 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,pytorch,tensorflow,numpy,pandas,pyspark,sql,azure,adf,synapse,databricks,git,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=c" /> C &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pytorch" /> PyTorch &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tensorflow" /> TensorFlow &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=pyspark" /> PySpark &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sql" /> SQL &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=azure" /> Azure &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=adf" /> Azure Data Factory &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=synapse" /> Azure Synapse &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=databricks" /> Databricks
 </p>
 
 ---
