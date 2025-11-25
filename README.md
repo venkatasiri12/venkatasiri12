@@ -6,11 +6,11 @@
 ---
 
 # 🌌 About Me
-👩‍🎓I am a **Graduate Student in Computer Science** at the [University of Colorado Denver](https://www.ucdenver.edu/), specializing in **AI/ML, NLP, and Cloud Data Engineering**.  
+👩‍🎓 I am a **Graduate Student in Computer Science** at the [University of Colorado Denver]  (https://www.ucdenver.edu/), specializing in **AI/ML, NLP, and Cloud Data Engineering**.  
 
-🖥I combine **software engineering rigor** with **data engineering efficiency** to build **production-ready AI systems** and **scalable data pipelines**.  
+🖥 I combine **software engineering rigor** with **data engineering efficiency** to build **production-ready AI systems** and **scalable data pipelines**.  
 
-✍️ From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP research, I thrive at the intersection of **intelligence, automation, and impact**.
+🗄️ From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP research, I thrive at the intersection of **intelligence, automation, and impact**.
 
 ---
 
