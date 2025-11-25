@@ -2,12 +2,10 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+There%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Engineer;Data+Engineering+%7C+Cloud+Analytics" />
 </p>
----
 
-![My Animation](https://github.com/username/profile-assets/blob/main/my-animation.gif?raw=true)
-
+<!-- Animated GIF Section -->
 <p align="center">
-  <img src="https://github.com/venkatasiri12/venkatasiri12/blob/main/giffy.gif?raw=true" width="400" />
+  <img src="assets/giffy.gif" alt="AI/ML GIF" width="600"/>
 </p>
 
 ---
@@ -39,7 +37,6 @@
   <img src="https://img.shields.io/badge/Databricks-FC6D26?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
 
-
 ---
 
 # 📫 Contact
@@ -48,7 +45,7 @@
 📞 +1 (303) 901-5036  
 
 <p align="center">
-  <a href="mailto:venkatasiri27tulasi@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
+  <a href="mailto:venkatasiritulasi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
 </p>
 
-<h3 align="center">✨ Open to AI/ML, NLP & Data Engineering opportunities. Let’s build something impactful together!</h3>
+<h3 align="center">✨ Open to AI/ML, NLP & Data Engineerin
