@@ -2,6 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+There%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Engineer;Data+Engineering+%7C+Cloud+Analytics" />
 </p>
+---
+
+![My Animation](https://github.com/username/profile-assets/blob/main/my-animation.gif?raw=true)
 
 <p align="center">
   <img src="https://github.com/venkatasiri12/venkatasiri12/blob/main/giffy.gif?raw=true" width="400" />
