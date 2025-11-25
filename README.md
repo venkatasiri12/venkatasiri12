@@ -14,75 +14,11 @@ From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP re
 
 ---
 
-# ⚡ Technical Arsenal
 
-### **AI & ML**
-- Python • PyTorch • TensorFlow • Transformers  
-- NLP, LLMs, Dialogue Systems  
-- Predictive Modeling & Feature Engineering  
-
-### **Data Engineering & Cloud**
-- Azure Data Factory, Azure Synapse, Databricks  
-- PySpark, SQL  
-- ETL/ELT Automation & Real-time Analytics  
-
-### **Software Engineering**
-- C++, GTest, ADB Commands  
-- API Integration & CI/CD  
-- Embedded Systems Testing  
-
-### **Tools**
-- NumPy, Pandas, Figma, Vizure  
-- MS Office, Google Workspace  
-
----
-
-# 💼 Professional Experience
-
-### **Software Engineer — Tata Elxsi**  
-*May 2023 – Jul 2025 | Chennai, India*  
-- Developed infotainment system modules using **GTest**.  
-- Automated test cases → **+30% defect detection**.  
-- Debugged high-priority issues → **-15% resolution time**.  
-- Optimized QA cycles for faster turnaround.
-
-### **ML & Data Engineering Intern — The Sparks Foundation**
-- Built predictive models → **+18% accuracy**.  
-- Developed automated ETL pipelines in **Azure Databricks**.  
-- Implemented NLP models for sentiment analysis.
-
-### **Treasurer — Portfolio Management Group (UCD)**
-- Managed budgeting, reporting & transparency.  
-- Coordinated investment workshops & events.  
-
----
-
-# 🏗 Featured Projects
-
-### 🗣 Conversational AI Chatbot
-- NLP-based chatbot using **PyTorch + Hugging Face Transformers**  
-- Context-aware dialogue generation & intent classification  
-
-### 📊 End-to-End Azure Data Pipeline
-- Automated ETL with **Azure Synapse + ADF + Databricks**  
-- Real-time analytics dashboards  
-
----
-
-# 📈 GitHub Analytics
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=venkatasiritulasi5&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasiritulasi5&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatasiritulasi5&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 # 🧩 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,azure,sqlite,git,vscode,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,azure,sqlite,git,vscode,azure data factory, azure synapse, Databricks, pyspark,sql" />
 </p>
 
 ---
