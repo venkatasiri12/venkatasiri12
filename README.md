@@ -1,100 +1,116 @@
-## Hi there 👋
-
-<h1 align="center">Hi, I'm Venkata Siri Tulasi</h1>
-<h3 align="center">Graduate Student in Computer Science | AI/ML Engineer | Data Engineering Enthusiast</h3>
-
----
-
-### 👋 About Me  
-I am a Computer Science graduate student at the **University of Colorado Denver**, focused on building intelligent, data-driven systems that bridge **Machine Learning, NLP, and Cloud Data Engineering**.  
-My experience spans **automotive software engineering**, **predictive modeling**, and **end-to-end ETL automation** across modern cloud environments.
-
-I enjoy solving complex problems by combining strong analytical thinking with scalable engineering practices. Whether it's designing conversational AI models, validating enterprise software modules, or optimizing real-time analytics workflows—my goal is always the same:  
-**Build systems that are accurate, reliable, and meaningful in real-world applications.**
+<!-- HEADER SECTION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=27&width=700&lines=Hi+There%F0%9F%91%8B%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Research+Engineer;Data+Engineering+%7C+Cloud+Analytics;Building+Intelligent+Systems+with+Impact" />
+</p>
 
 ---
 
-## 🔧 Technical Expertise  
+# 🌟 About Me  
+I am a **Computer Science Graduate Student at the University of Colorado Denver**, specializing in **Machine Learning, NLP, and Cloud Data Engineering**.  
+My engineering approach focuses on designing **scalable ML pipelines**, **intelligent conversational systems**, and **production-ready data workflows**.
 
-### **Languages & Frameworks**
-- **Python**, C++, C  
-- **PyTorch**, TensorFlow, NumPy, Pandas  
-- ML, NLP, Predictive Analytics  
-- PySpark, SQL
+What sets me apart?  
+I bring together **software engineering discipline**, **data engineering efficiency**, and **AI-driven problem solving** to build systems that work *not just in theory, but in the real world*.
 
-### **Cloud & Data Engineering**
+I’ve engineered automotive software at **Tata Elxsi**, automated ETL pipelines in **Azure**, built advanced NLP models, and led finance operations as a University Treasurer — proving versatility, precision, and leadership across domains.
+
+---
+
+# 🚀 Technical Arsenal  
+
+### 🧠 **AI & Machine Learning**
+- Python • PyTorch • TensorFlow  
+- Transformers • NLP • LLMs  
+- Predictive Modeling • Sentiment Analysis  
+- Feature Engineering • Model Optimization  
+
+### 🗄 **Data Engineering & Cloud**
 - Azure Data Factory  
-- Azure Synapse Analytics  
-- Azure Databricks  
+- Azure Synapse  
+- Databricks  
+- PySpark • SQL  
 - ETL/ELT Pipelines  
-- Data Modeling & Visualization  
+- Real-time Analytics  
 
-### **Software Engineering**
-- GTest, Unit Testing, ADB Commands  
-- Automotive Infotainment Systems  
+### 🔧 **Software Engineering**
+- C++ • Embedded Testing  
+- GTest • ADB Commands  
 - API Integration  
-- Static & Manual Testing  
-- Git, CI/CD Basics  
+- CI/CD • Git Workflows  
+- Test Automation • Debugging  
+
+### 🎨 **Tools**
+- NumPy • Pandas  
+- Figma • Vizure  
+- MS Office • Google Workspace  
 
 ---
 
-## 🏢 Professional Experience  
+# 🏢 Professional Journey  
 
-### **Software Engineer — Tata Elxsi**  
+## 💼 Software Engineer — **Tata Elxsi**
 *May 2023 – Jul 2025 | Chennai, India*  
-- Engineered and validated **automotive infotainment software modules** using GTest and embedded testing frameworks.  
-- Automated test case development, increasing test coverage and improving defect detection by **30%**.  
-- Collaborated with cross-functional teams to resolve critical issues, reducing debug/triage time by **15%**.  
-- Contributed to process improvements that streamlined QA cycles and shortened project turnaround duration.
+- Developed & validated infotainment system modules using **GTest**.  
+- Automated test cases → improved detection rate by **30%**.  
+- Eliminated bottlenecks in debugging → reduced resolution time by **15%**.  
+- Streamlined QA cycles & boosted overall engineering efficiency.
 
 ---
 
-### **Machine Learning & Data Engineering Intern — The Sparks Foundation**  
-- Built predictive ML models using Python, increasing forecasting accuracy by **18%**.  
-- Designed automated **ETL pipelines** on Azure Databricks for analytics-ready datasets.  
-- Developed NLP models using TensorFlow for sentiment analysis and insight extraction.  
+## 💡 ML & Data Engineering Intern — **The Sparks Foundation**
+- Built predictive ML models → improved accuracy by **18%**.  
+- Developed automated **Azure + Databricks ETL pipelines**.  
+- Designed TensorFlow-based NLP models to derive deeper insights.
 
 ---
 
-### **Treasurer — Portfolio Management Group, University of Colorado Denver**  
-*Aug 2025 – Present*  
-- Managed budgeting, financial reporting, and expense tracking to maintain organizational transparency.  
-- Coordinated logistics for investment workshops and student portfolio events.  
-- Delivered timely reports using Google Workspace and MS Office tools.
+## 📘 Treasurer — Portfolio Management Group (UCD)
+- Directed budgeting, financial reporting & planning.  
+- Coordinated campus investment workshops & events.  
+- Ensured financial transparency with precise documentation.
 
 ---
 
-## 🎓 Education  
+# 🔬 Featured Projects  
 
-**M.S. in Computer Science**  
-*University of Colorado Denver*  
-2025 – Present  
+### 🗣 **Conversational AI Chatbot**
+NLP-powered chatbot using **PyTorch + Transformers**.  
+Includes intent detection, dialogue generation & context handling.
 
-**B.Tech in Computer Science Engineering**  
-*Hindustan University*  
-2019 – 2023  
-
----
-
-## 🚀 Featured Projects  
-
-### 🗣️ **Conversational AI Chatbot**  
-Built an NLP-based chatbot using **PyTorch** and **Hugging Face Transformers** for intelligent dialogue generation.  
-- Intent classification  
-- Contextual response generation  
-- Tokenization, embeddings, and fine-tuning  
-
-### 📊 **Azure Data Analytics Pipeline**  
-Developed an automated end-to-end ETL system using **Azure Synapse + ADF** to process and visualize real-time analytical data.
+### 📊 **End-to-End Azure Data Analytics Pipeline**
+Automated ETL process built with **Synapse, ADF, Databricks**.  
+Supports real-time dashboards & scalable data processing.
 
 ---
 
-## 📫 Contact  
-📍 Denver, CO, USA  
+# 📈 GitHub Analytics  
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=venkatasiritulasi5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasiritulasi5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatasiritulasi5&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🧩 Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,azure,sqlite,git,vscode,linux,figma" />
+</p>
+
+---
+
+# 📫 Connect With Me  
+📍 **Denver, CO, USA**  
 📧 **venkatasiritulasi5@gmail.com**  
-📞 **+1 (303) 901-5036**
+📞 **+1 (303) 901-5036**  
+
+<p align="center">
+  <a href="mailto:venkatasiritulasi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
+</p>
 
 ---
 
-<h3 align="center">📌 My work is driven by curiosity, clarity, and continuous learning.  
-If you're hiring or collaborating — I’d love to connect.</h3>
+<h3 align="center">✨ Always open to opportunities in Machine Learning, NLP, and Data Engineering. Let's build something powerful together.</h3>
