@@ -2,11 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+There%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Engineer;Data+Engineering+%7C+Cloud+Analytics" />
 </p>
+---
 
-<!-- Animated GIF Section -->
-<p align="center">
-  <img src="assets/giffy.gif" alt="AI/ML GIF" width="600"/>
-</p>
+![Working Woman](https://github.com/venkatasiri12/venkatasiri12/blob/main/giffy.gif)
 
 ---
 
