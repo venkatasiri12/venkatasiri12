@@ -14,25 +14,24 @@
 
 ---
 
-
-
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" /> Python &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=cpp" /> C++ &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=c" /> C &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pytorch" /> PyTorch &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=tensorflow" /> TensorFlow &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=numpy" /> NumPy &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pandas" /> Pandas &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=pyspark" /> PySpark &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" /> SQL &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=azure" /> Azure &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=adf" /> Azure Data Factory &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=synapse" /> Azure Synapse &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=databricks" /> Databricks
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-FF0000?style=for-the-badge&logo=apache-spark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/ADF-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Synapse-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Databricks-FC6D26?style=for-the-badge&logo=databricks&logoColor=white" />
 </p>
+
 
 ---
 
