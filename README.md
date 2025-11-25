@@ -40,8 +40,7 @@
 
 # 📫 Contact
 📍 Denver, CO, USA  
-📧 venkatasiritulasi5@gmail.com  
-📞 +1 (303) 901-5036  
+📧 venkatasiri27tulasi@gmail.com  
 
 <p align="center">
   <a href="mailto:venkatasiritulasi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
