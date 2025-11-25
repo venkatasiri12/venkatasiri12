@@ -1,116 +1,99 @@
-<!-- HEADER SECTION -->
+<!-- Animated Typing Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=27&width=700&lines=Hi+There%F0%9F%91%8B%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Research+Engineer;Data+Engineering+%7C+Cloud+Analytics;Building+Intelligent+Systems+with+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&width=700&lines=Hi+There%2C+I'm+Venkata+Siri+Tulasi;AI+%7C+ML+%7C+NLP+Engineer;Data+Engineering+%7C+Cloud+Analytics" />
 </p>
 
 ---
 
-# 🌟 About Me  
-I am a **Computer Science Graduate Student at the University of Colorado Denver**, specializing in **Machine Learning, NLP, and Cloud Data Engineering**.  
-My engineering approach focuses on designing **scalable ML pipelines**, **intelligent conversational systems**, and **production-ready data workflows**.
+# 🌌 About Me
+I am a **Graduate Student in Computer Science** at the University of Colorado Denver, specializing in **AI/ML, NLP, and Cloud Data Engineering**.  
 
-What sets me apart?  
-I bring together **software engineering discipline**, **data engineering efficiency**, and **AI-driven problem solving** to build systems that work *not just in theory, but in the real world*.
+I combine **software engineering rigor** with **data engineering efficiency** to build **production-ready AI systems** and **scalable data pipelines**.  
 
-I’ve engineered automotive software at **Tata Elxsi**, automated ETL pipelines in **Azure**, built advanced NLP models, and led finance operations as a University Treasurer — proving versatility, precision, and leadership across domains.
+From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP research, I thrive at the intersection of **intelligence, automation, and impact**.
 
 ---
 
-# 🚀 Technical Arsenal  
+# ⚡ Technical Arsenal
 
-### 🧠 **AI & Machine Learning**
-- Python • PyTorch • TensorFlow  
-- Transformers • NLP • LLMs  
-- Predictive Modeling • Sentiment Analysis  
-- Feature Engineering • Model Optimization  
+### **AI & ML**
+- Python • PyTorch • TensorFlow • Transformers  
+- NLP, LLMs, Dialogue Systems  
+- Predictive Modeling & Feature Engineering  
 
-### 🗄 **Data Engineering & Cloud**
-- Azure Data Factory  
-- Azure Synapse  
-- Databricks  
-- PySpark • SQL  
-- ETL/ELT Pipelines  
-- Real-time Analytics  
+### **Data Engineering & Cloud**
+- Azure Data Factory, Azure Synapse, Databricks  
+- PySpark, SQL  
+- ETL/ELT Automation & Real-time Analytics  
 
-### 🔧 **Software Engineering**
-- C++ • Embedded Testing  
-- GTest • ADB Commands  
-- API Integration  
-- CI/CD • Git Workflows  
-- Test Automation • Debugging  
+### **Software Engineering**
+- C++, GTest, ADB Commands  
+- API Integration & CI/CD  
+- Embedded Systems Testing  
 
-### 🎨 **Tools**
-- NumPy • Pandas  
-- Figma • Vizure  
-- MS Office • Google Workspace  
+### **Tools**
+- NumPy, Pandas, Figma, Vizure  
+- MS Office, Google Workspace  
 
 ---
 
-# 🏢 Professional Journey  
+# 💼 Professional Experience
 
-## 💼 Software Engineer — **Tata Elxsi**
+### **Software Engineer — Tata Elxsi**  
 *May 2023 – Jul 2025 | Chennai, India*  
-- Developed & validated infotainment system modules using **GTest**.  
-- Automated test cases → improved detection rate by **30%**.  
-- Eliminated bottlenecks in debugging → reduced resolution time by **15%**.  
-- Streamlined QA cycles & boosted overall engineering efficiency.
+- Developed infotainment system modules using **GTest**.  
+- Automated test cases → **+30% defect detection**.  
+- Debugged high-priority issues → **-15% resolution time**.  
+- Optimized QA cycles for faster turnaround.
+
+### **ML & Data Engineering Intern — The Sparks Foundation**
+- Built predictive models → **+18% accuracy**.  
+- Developed automated ETL pipelines in **Azure Databricks**.  
+- Implemented NLP models for sentiment analysis.
+
+### **Treasurer — Portfolio Management Group (UCD)**
+- Managed budgeting, reporting & transparency.  
+- Coordinated investment workshops & events.  
 
 ---
 
-## 💡 ML & Data Engineering Intern — **The Sparks Foundation**
-- Built predictive ML models → improved accuracy by **18%**.  
-- Developed automated **Azure + Databricks ETL pipelines**.  
-- Designed TensorFlow-based NLP models to derive deeper insights.
+# 🏗 Featured Projects
+
+### 🗣 Conversational AI Chatbot
+- NLP-based chatbot using **PyTorch + Hugging Face Transformers**  
+- Context-aware dialogue generation & intent classification  
+
+### 📊 End-to-End Azure Data Pipeline
+- Automated ETL with **Azure Synapse + ADF + Databricks**  
+- Real-time analytics dashboards  
 
 ---
 
-## 📘 Treasurer — Portfolio Management Group (UCD)
-- Directed budgeting, financial reporting & planning.  
-- Coordinated campus investment workshops & events.  
-- Ensured financial transparency with precise documentation.
-
----
-
-# 🔬 Featured Projects  
-
-### 🗣 **Conversational AI Chatbot**
-NLP-powered chatbot using **PyTorch + Transformers**.  
-Includes intent detection, dialogue generation & context handling.
-
-### 📊 **End-to-End Azure Data Analytics Pipeline**
-Automated ETL process built with **Synapse, ADF, Databricks**.  
-Supports real-time dashboards & scalable data processing.
-
----
-
-# 📈 GitHub Analytics  
+# 📈 GitHub Analytics
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=venkatasiritulasi5&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkatasiritulasi5&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkatasiritulasi5&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-# 🧩 Tech Stack  
+# 🧩 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,pytorch,tensorflow,azure,sqlite,git,vscode,linux,figma" />
 </p>
 
 ---
 
-# 📫 Connect With Me  
-📍 **Denver, CO, USA**  
-📧 **venkatasiritulasi5@gmail.com**  
-📞 **+1 (303) 901-5036**  
+# 📫 Contact
+📍 Denver, CO, USA  
+📧 venkatasiritulasi5@gmail.com  
+📞 +1 (303) 901-5036  
 
 <p align="center">
   <a href="mailto:venkatasiritulasi5@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge"></a>
 </p>
 
----
-
-<h3 align="center">✨ Always open to opportunities in Machine Learning, NLP, and Data Engineering. Let's build something powerful together.</h3>
+<h3 align="center">✨ Open to AI/ML, NLP & Data Engineering opportunities. Let’s build something impactful together!</h3>
