@@ -10,7 +10,7 @@
 
 🖥 I combine **software engineering rigor** with **data engineering efficiency** to build **production-ready AI systems** and **scalable data pipelines**.  
 
-🗄️ From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP research, I thrive at the intersection of **intelligence, automation, and impact**.
+🗂️ From automotive infotainment at **Tata Elxsi** to predictive modeling and NLP research, I thrive at the intersection of **intelligence, automation, and impact**.
 
 ---
 
